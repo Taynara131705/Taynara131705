@@ -37,6 +37,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Taynara131705/Taynara131705/output/snake.svg" alt="Snake animation" />
+
 
 ###
